@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG id="Disc Catalog" name="CD CATALOG">
+  <CD id="1">
+    <TITLE>Empire Burlesque</TITLE>
+    <ARTIST>Bob Dylan</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1985</YEAR>
+    <SELLS>
+      <Y1985>1000000</Y1985>
+      <Y2000>500000</Y2000>
+      <Y2020>5000</Y2020>
+    </SELLS>
+  </CD>
+  <CD id="2">
+    <TITLE>Hide your heart</TITLE>
+    <ARTIST>Bonnie Tyler</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS Records</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1988</YEAR>
+    <SELLS>
+      <Y1985>1500000</Y1985>
+      <Y2000>1000000</Y2000>
+      <Y2020>3000</Y2020>
+    </SELLS>
+  </CD>
+  <CD id="3">
+    <TITLE>Greatest Hits</TITLE>
+    <ARTIST>Dolly Parton</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>RCA</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1982</YEAR>
+  </CD>
+  <CD id="4">
+    <TITLE>Still got the blues</TITLE>
+    <ARTIST>Gary Moore</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Virgin records</COMPANY>
+    <PRICE>10.20</PRICE>
+    <YEAR>1990</YEAR>
+  </CD>
+  <CD id="5">
+    <TITLE>Eros</TITLE>
+    <ARTIST>Eros Ramazzotti</ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>BMG</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1997</YEAR>
+  </CD>
+  <CD id="6">
+    <TITLE>One night only</TITLE>
+    <ARTIST>Bee Gees</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1998</YEAR>
+  </CD>
+  <CD id="7">
+    <TITLE>Sylvias Mother</TITLE>
+    <ARTIST>Dr.Hook</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>CBS</COMPANY>
+    <PRICE>8.10</PRICE>
+    <YEAR>1973</YEAR>
+  </CD>
+  <CD id="8">
+    <TITLE>Maggie May</TITLE>
+    <ARTIST>Rod Stewart</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Pickwick</COMPANY>
+    <PRICE>8.50</PRICE>
+    <YEAR>1990</YEAR>
+  </CD>
+  <CD id="9">
+    <TITLE>Romanza</TITLE>
+    <ARTIST>Andrea Bocelli</ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <PRICE>10.80</PRICE>
+    <YEAR>1996</YEAR>
+  </CD>
+  <CD id="10">
+    <TITLE>When a man loves a woman</TITLE>
+    <ARTIST>Percy Sledge</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Atlantic</COMPANY>
+    <PRICE>8.70</PRICE>
+    <YEAR>1987</YEAR>
+  </CD>
+  <CD id="11">
+    <TITLE>Black angel</TITLE>
+    <ARTIST>Savage Rose</ARTIST>
+    <COUNTRY>EU</COUNTRY>
+    <COMPANY>Mega</COMPANY>
+    <PRICE>10.90</PRICE>
+    <YEAR>1995</YEAR>
+  </CD>
+  <CD id="12">
+    <TITLE>1999 Grammy Nominees</TITLE>
+    <ARTIST>Many</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Grammy</COMPANY>
+    <PRICE>10.20</PRICE>
+    <YEAR>1999</YEAR>
+  </CD>
+  <CD id="13">
+    <TITLE>For the good times</TITLE>
+    <ARTIST>Kenny Rogers</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Mucik Master</COMPANY>
+    <PRICE>8.70</PRICE>
+    <YEAR>1995</YEAR>
+  </CD>
+  <CD id="14">
+    <TITLE>Big Willie style</TITLE>
+    <ARTIST>Will Smith</ARTIST>
+    <COUNTRY>USA</COUNTRY>
+    <COMPANY>Columbia</COMPANY>
+    <PRICE>9.90</PRICE>
+    <YEAR>1997</YEAR>
+  </CD>
+  <CD id="15">
+    <TITLE>Tupelo Honey</TITLE>
+    <ARTIST>Van Morrison</ARTIST>
+    <COUNTRY>UK</COUNTRY>
+    <COMPANY>Polydor</COMPANY>
+    <PRICE>8.20</PRICE>
+    <YEAR>1971</YEAR>
+  </CD>
+</CATALOG>
