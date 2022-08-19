@@ -1,0 +1,37 @@
+table, td, tr, th {
+    border: 1px solid black;
+}
+
+h1 {
+    color: green;
+}
+#user-name {
+    background-color: gold;
+}
+
+.input-field {
+    background-color: black;
+    color: white;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: lime;
+}
+
+a:active {
+    color: blue;
+    font-size: 200%;
+}
+
+img:hover {
+    border: 10px solid lime;
+    border-radius: 200px;
+}

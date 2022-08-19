@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>We Learn HTML</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- TEXT TAGS -->
+        <h1 style="color: blue;">TEXT TAGS</h1>
+        <h1>Hello world!</h1>
+        <h2>Heading 2</h2>
+        <h6>Heading 6</h6>
+        <p><small>Lorem</small> ipsum dolor sit amet, consectetur adipisicing elit. Accusantium commodi, consequuntur doloribus eum exercitationem facere illum in incidunt ipsam iure laborum maxime obcaecati officiis provident quaerat quisquam ratione rem soluta temporibus vero. Adipisci aspernatur eos eum nostrum numquam officia placeat quas vero! Ab adipisci aperiam atque consequatur debitis eligendi, est, facere libero maxime mollitia neque nihil nostrum odit quae, rerum. Commodi dignissimos eius officia perferendis perspiciatis porro, quae quam. Accusantium beatae consequuntur corporis debitis dicta, distinctio libero modi nobis quaerat quidem rerum similique tempore totam! Alias at corporis dolorem illo necessitatibus neque non placeat porro repudiandae ullam? Commodi, nobis optio!</p>
+        <p>Lorem ipsum dolor sit amet, <span>consectetur</span> adipisicing elit. Aspernatur fuga illo nobis quasi rerum sequi totam voluptas. Animi dolores expedita fugiat, incidunt iste maiores minima minus, molestias nesciunt nulla sit sunt tempore. Commodi, consectetur corporis eaque minima modi nulla optio quas quod voluptates voluptatibus. Aliquam aut cupiditate deleniti dignissimos distinctio, enim ipsa natus nisi, placeat quaerat quam qui, sapiente temporibus totam ut. Adipisci aliquam, blanditiis culpa delectus doloremque ducimus et eveniet hic laboriosam nesciunt nihil omnis pariatur praesentium quas, quis ratione reprehenderit rerum saepe sequi similique sint sunt voluptate. Aliquid, temporibus, voluptate. Dignissimos dolorum enim eos ex expedita quibusdam saepe.</p>
+        <span>Hello world</span>
+        <p>H<sub>2</sub>O</p>
+        <p>x<sup>2</sup></p>
+        <!-- LIST ITEMS -->
+        <h1>LISTS</h1>
+        <nav>
+            <ul>
+                <li>One</li>
+                <li>Two</li>
+                <li>Three</li>
+                <li>
+                    <ul>
+                        <li>One</li>
+                        <li>Two</li>
+                        <li>Three</li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <ol>
+            <li>One</li>
+            <li>Two</li>
+            <li>Three</li>
+        </ol>
+        <!-- CONTAINERS -->
+        <h1>CONTAINERS</h1>
+        <div>Hello world</div>
+        <header>I am header</header>
+        <footer>I am footer</footer>
+        <section>I am section</section>
+        <!-- UTILITY TAGS -->
+        <h1>UTILITY TAGS</h1>
+        <p>Lorem &nbsp; ipsum <br>dolor sit amet, <hr>consectetur adipisicing elit. Alias aliquid atque consequatur cum distinctio ducimus excepturi fuga inventore iusto nostrum obcaecati placeat quis quisquam, reprehenderit saepe sunt suscipit temporibus, tenetur veritatis voluptas! Asperiores aspernatur fugit libero maiores neque obcaecati odit tempore temporibus vero voluptates! Adipisci aliquam animi cum delectus eligendi fuga hic illo incidunt, iure minima nemo odit quaerat quidem quos repudiandae sequi sint? Ab accusantium aspernatur consequatur debitis dicta dignissimos dolor, dolorem error excepturi hic impedit inventore ipsam nam nesciunt quam quas repudiandae similique! A accusamus culpa cupiditate distinctio in incidunt itaque, magni modi obcaecati perspiciatis, sunt tenetur unde?</p>
+        <!-- IMAGES -->
+        <h1>IMAGES</h1>
+        <img src="http://picsum.photos/800/600" alt="Random"><br>
+        <a href="http://www.google.com"><img src="http://picsum.photos/800/600" alt="Random"></a><br>
+        <!-- HYPERLINKS -->
+        <h1>HYPERLINKS</h1>
+        <a href="http://www.google.com">GOOGLE</a><br>
+        <a href="http://www.google.com"><img src="http://picsum.photos/800/600" alt="Random"></a><br>
+        <a href="about.html">About me</a>
+        <!-- TABLES -->
+        <h1>TABLES</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>1</th>
+                    <th>2</th>
+                    <th>3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>One</td>
+                    <td>Two</td>
+                    <td>Three</td>
+                </tr>
+                <tr>
+                    <td>One</td>
+                    <td>Two</td>
+                    <td rowspan="2">Three</td>
+                </tr>
+                <tr>
+                    <td>One</td>
+                    <td>Two</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="3">FOOTER</td>
+                </tr>
+            </tfoot>
+        </table>
+        <!-- FORMS -->
+        <h1>FORMS</h1>
+        <form action="" method="get">
+            <label for="user-name">User Name: </label>
+            <input type="text" id="user-name" class="input-field" name="user-name" placeholder="User name"><br>
+            <label for="user-email">User Email: </label>
+            <input type="email" id="user-email" class="input-field" name="user-email"><br>
+            <label for="user-password">Password: </label>
+            <input type="password" id="user-password" class="input-field" name="user-password"><br>
+            <span>User gender: </span>
+            <input type="radio" class="input-field" name="gender" value="Male">Male
+            <input type="radio" class="input-field" name="gender" value="Female">Female<br>
+            <span>Send news?</span>
+            <input type="checkbox" class="input-field" name="newsletter" value="yes"><br>
+            <select name="city" class="input-field">
+                <option value="TLN">Tallin</option>
+                <option value="LDN">London</option>
+                <option value="NY">New-York</option>
+            </select><br>
+            <textarea name="user-message" id="user-message" class="input-field text-field" cols="30" rows="10"></textarea>
+            <input type="submit" value="Click me!">
+            <input type="reset" value="Clear!">
+        </form>
+    </body>
+</html>
