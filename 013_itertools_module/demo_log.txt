@@ -1,0 +1,34 @@
+Date: 2021-03-19
+Author: John Smith
+Description: Some issue happened
+
+Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)
+Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)Log body: Some random text
+There are different lines
+Let's pretend it is a very long log :)
+
+
+
+
+
+
+
+
